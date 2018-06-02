@@ -1,0 +1,15 @@
+{
+  "name": "41-serveurhttpnode",
+  "version": "1.0.0",
+  "description": "serveur http node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jerome legrand",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.3"
+  }
+}
